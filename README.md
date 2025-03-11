@@ -1,1 +1,1 @@
-# init_git
+# setup_git
